@@ -1,4 +1,6 @@
 // Zero Cost Abstractions
+// What you don't use, you don't pay for/
+// What you do use, you couldn't hand code any better.
 
 //C++ allows us to define our own abstractions but it also comes with built-in abstractions.
 //The range based for-loop makes it possible to iterate over a range of values (an array in JS).
@@ -13,3 +15,7 @@
 // Try
 // A try block identifies a block of code for which particular exceptions will be activated. It's followed by one or more catch blocks.
 
+//"::" operator
+// the :: operator tells the compiler which class/namespace to look in for an identifier.
+// std::cout tells the compiler you want the "cout" identifier and it is in the std namespace.
+// std means standard library.
